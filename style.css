@@ -168,6 +168,9 @@
  }
  
  .bike-description {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
      width: 40%;
      height: 600px;
      text-align: left;
